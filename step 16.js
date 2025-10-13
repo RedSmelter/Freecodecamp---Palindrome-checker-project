@@ -5,3 +5,4 @@ With the number data type, you can perform mathematical operations, like additio
 
 let character = 'Hello';
 let count = 8;
+console.log(count + 1);
